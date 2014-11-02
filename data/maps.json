@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Près de 14 millions d'euros de recettes",
+        "name": "Chapitre1",
+        "zoom1": 13,
+        "zoom2": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         7.472409,46.295697
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>1. </span>Plan-Mayens : le quartier chic prisé des forfaits",
+        "name": "Chapitre2",
+        "zoom1": 16,
+        "zoom2": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           7.462137, 46.312843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>2. </span>Les rues des banques, des fiduciaires et des agents immobiliers",
+        "name": "Chapitre3",
+        "zoom1": 17,
+        "zoom2": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        7.467650, 46.306128
+
+
+        ]
+      }
+    }
+    ,
+
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>3. </span>Le Golf et ses mondanités",
+        "name": "Chapitre5",
+        "zoom1": 16,
+        "zoom2": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         7.463718,46.302202 
+        ]
+      }
+    }
+     ,
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style='background-color:#940026;color:#fff;margin-right:10px;padding:2px 2px 2px 5px;''>4. </span>Lens et sa colline aux étrangers",
+        "name": "Chapitre5",
+        "zoom1": 16,
+        "zoom2": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         7.451836,46.280467
+
+
+        ]
+      }
+    }
+
+    
+
+
+
+  ]
+  
+}
+
