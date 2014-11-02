@@ -1,5 +1,5 @@
 ## Crans-Montana, accro aux forfaits fiscaux
-letemps.ch - octobre 2014
+letemps.ch - novembre 2014
 
 
 
